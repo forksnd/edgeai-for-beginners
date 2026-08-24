@@ -42,7 +42,7 @@
     "electron-store": "^8.1.0",
     "electron-updater": "^6.1.4",
     "electron-window-state": "^5.0.3",
-    "uuid": "^9.0.1",
+    "uuid": "11.1.1",
     "marked": "^9.1.2",
     "dompurify": "^3.0.5",
     "date-fns": "^2.30.0",
